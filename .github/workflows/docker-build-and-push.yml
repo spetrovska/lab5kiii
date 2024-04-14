@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: spetrovska/lab5kiii:latest
+          tags: spetrovskaaa/lab5kiii:latest
